@@ -76,7 +76,7 @@ A comprehensive Streamlit web application for detecting and analyzing heritage s
 3. **Verify model file:**
    Ensure the YOLOv11 model weights are present at:
    ```
-   C:\Users\Vansh\Downloads\ai_app\best.pt
+   C:\Users\Gauri\Downloads\ai_app\best.pt
    ```
 
 ## 🎯 Usage
