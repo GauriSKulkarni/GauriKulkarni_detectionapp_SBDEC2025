@@ -5,7 +5,7 @@ A comprehensive Streamlit web application for detecting and analyzing heritage s
 ## 🌟 Features
 
 ### 📸 Image Detection
-- Upload single or multiple images
+- Upload a single or Multiple Images
 - Real-time object detection with bounding boxes
 - Confidence scores for each detection
 - Cropped detection thumbnails
