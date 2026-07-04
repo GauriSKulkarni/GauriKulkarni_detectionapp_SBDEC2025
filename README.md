@@ -9,7 +9,7 @@ A comprehensive Streamlit web application for detecting and analyzing heritage s
 - Real-time object detection with bounding boxes
 - Confidence scores for each detection
 - Cropped detection thumbnails
-- Interactive results display
+- Interactive Results Display
 
 ### 🎥 Video Analysis
 - Local video file upload support
